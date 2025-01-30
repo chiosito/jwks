@@ -1,0 +1,12 @@
+{
+    "keys": [
+        {
+            "kty": "RSA",
+            "kid": "fake-key",
+            "use": "sig",
+            "alg": "RS256",
+            "n": "MODULO_EN_BASE64",
+            "e": "AQAB"
+        }
+    ]
+}
